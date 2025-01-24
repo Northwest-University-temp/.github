@@ -1,2 +1,2 @@
 # .github
-This is the GitHub repo for Northwest Universtiy in Kirkland, WA.
+This is the GitHub repo for Northwest University in Kirkland, WA.
